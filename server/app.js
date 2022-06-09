@@ -1,4 +1,5 @@
 /**
+ * IFSL3T35 Capstone Project V: Authentication
  *
  * @author Eckard Smuts
  *
